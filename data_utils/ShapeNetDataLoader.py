@@ -78,7 +78,7 @@ class PartNormalDataset(Dataset):
             self.classes[i] = self.classes_original[i]
 
         # Mapping from category ('Chair') to a list of int [10,11,12,13] as segmentation labels
-        self.seg_classes = {'Person': [1]}
+        self.seg_classes = {'Person': [1],'Background':[0]}
 
         # for cat in sorted(self.seg_classes.keys()):
         #     print(cat, self.seg_classes[cat])

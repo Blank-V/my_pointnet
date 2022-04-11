@@ -104,8 +104,8 @@ def main(args):
     log_string("The number of training data is: %d" % len(TRAIN_DATASET))
     log_string("The number of test data is: %d" % len(TEST_DATASET))
 
-    num_classes = 1
-    num_part = 1
+    num_classes = 2
+    num_part = 2
 
     '''MODEL LOADING'''
     MODEL = importlib.import_module(args.model)

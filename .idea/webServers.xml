@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9e99fc7-1e79-4c97-9f94-ab134408d5ef" name="mypointnet" url="http://45.124.64.46:10103">
+        <fileTransfer rootFolder="/home/yanghaiwei" accessType="SFTP" host="45.124.64.46" port="10103" sshConfigId="d6ba941c-2877-43de-9afb-7916279f7d5d" sshConfig="yanghaiwei@45.124.64.46:10103 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

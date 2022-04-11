@@ -2660,3 +2660,33 @@
 2022-04-11 23:40:19,887 - Model - INFO - Learning rate:0.001000
 2022-04-11 23:41:22,617 - Model - INFO - PARAMETER ...
 2022-04-11 23:41:22,617 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg', normal=True, npoint=2048, optimizer='Adam', step_size=20)
+2022-04-11 23:47:58,992 - Model - INFO - PARAMETER ...
+2022-04-11 23:47:58,992 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg', normal=True, npoint=2048, optimizer='Adam', step_size=20)
+2022-04-11 23:47:58,994 - Model - INFO - The number of training data is: 95
+2022-04-11 23:47:58,994 - Model - INFO - The number of test data is: 15
+2022-04-11 23:47:59,966 - Model - INFO - No existing model, starting training from scratch...
+2022-04-11 23:48:00,022 - Model - INFO - Epoch 1 (1/251):
+2022-04-11 23:48:00,022 - Model - INFO - Learning rate:0.001000
+2022-04-11 23:51:32,275 - Model - INFO - PARAMETER ...
+2022-04-11 23:51:32,275 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg', normal=True, npoint=2048, optimizer='Adam', step_size=20)
+2022-04-11 23:52:48,191 - Model - INFO - The number of training data is: 95
+2022-04-11 23:52:48,191 - Model - INFO - The number of test data is: 15
+2022-04-11 23:52:51,051 - Model - INFO - No existing model, starting training from scratch...
+2022-04-11 23:52:51,110 - Model - INFO - Epoch 1 (1/251):
+2022-04-11 23:52:51,110 - Model - INFO - Learning rate:0.001000
+2022-04-12 00:27:06,937 - Model - INFO - PARAMETER ...
+2022-04-12 00:27:06,938 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg', normal=True, npoint=2048, optimizer='Adam', step_size=20)
+2022-04-12 00:27:08,957 - Model - INFO - The number of training data is: 95
+2022-04-12 00:27:08,957 - Model - INFO - The number of test data is: 15
+2022-04-12 00:28:57,780 - Model - INFO - PARAMETER ...
+2022-04-12 00:28:57,780 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2022-04-12 00:28:59,251 - Model - INFO - The number of training data is: 95
+2022-04-12 00:28:59,251 - Model - INFO - The number of test data is: 15
+2022-04-12 00:29:40,087 - Model - INFO - No existing model, starting training from scratch...
+2022-04-12 00:29:52,486 - Model - INFO - Epoch 1 (1/251):
+2022-04-12 00:29:53,023 - Model - INFO - Learning rate:0.001000
+2022-04-12 00:33:00,438 - Model - INFO - PARAMETER ...
+2022-04-12 00:33:00,438 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=251, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg', normal=True, npoint=2048, optimizer='Adam', step_size=20)
+2022-04-12 00:33:00,438 - Model - INFO - The number of training data is: 95
+2022-04-12 00:33:00,438 - Model - INFO - The number of test data is: 15
+2022-04-12 00:33:01,611 - Model - INFO - No existing model, starting training from scratch...

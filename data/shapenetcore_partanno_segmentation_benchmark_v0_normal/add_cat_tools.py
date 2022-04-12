@@ -10,9 +10,9 @@ for name in txt_ls:
     with open(file_path, 'r') as f:
         lines = f.readlines()
         for l in lines:
-            l= l.replace(',',' ')
-            t = l.split(' ')
-            t = t[:3]
+            l=l.strip('\n')
+            t = l.split(',')
+            t = t[:6]
             t.append('1\n')
             t_str = ' '.join(t)
             str += "".join(t_str)
